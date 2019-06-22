@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.cs442.dsuraj.quantumc.Register">
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400px"
+        android:layout_marginLeft="40px"
+        android:text="Đăng Ký"
+        android:textColor="#FFCC00"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:hint="df"/>
+
+        <EditText
+        android:layout_width="1000px"
+        android:layout_height="120px"
+        android:layout_marginTop="700px"
+        android:layout_marginLeft="40px"
+        android:hint="Mã Sinh Viên"
+        android:inputType="text"
+        android:textColor="#000"
+        android:ems="10"
+        android:id="@+id/editName"
+            />
+
+        <EditText
+        android:layout_width="1000px"
+        android:layout_height="120px"
+        android:layout_marginTop="530px"
+        android:layout_marginLeft="40px"
+        android:hint="Email"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:textColor="#000"
+        android:id="@+id/editEmail"
+            />
+
+        <EditText
+        android:layout_width="1000px"
+        android:layout_height="120px"
+        android:layout_marginTop="870px"
+        android:layout_marginLeft="40px"
+        android:hint="Mật Khẩu"
+        android:inputType="textPassword"
+        android:textColor="#000"
+        android:ems="10"
+        android:id="@+id/editPassword"
+            />
+        <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="1210px"
+        android:background="@drawable/bt_shape"
+        android:text="Đăng Ký" />
+        <Button
+        android:layout_width="150px"
+        android:layout_height="150px"
+        android:layout_marginLeft="800px"
+        android:layout_marginTop="270px"
+        android:layout_marginRight="40px"
+        android:background="@drawable/ic_back"
+        android:id="@+id/buttonLogin"/>
+    </RelativeLayout>

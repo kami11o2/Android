@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/colorPrimaryDark"
+    android:clickable="true">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/image1"
+        android:id="@+id/imageView"
+        android:layout_marginTop="28dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="detail" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_below="@+id/textView"
+        android:layout_marginLeft="15dp"
+        android:text="2011 ‧ Hài hước/ Hình sự ‧ 1 giờ 27 phút"
+        android:textColor="?android:attr/colorPressedHighlight" />
+
+    <ImageButton
+        app:srcCompat="?attr/actionModeShareDrawable"
+        android:id="@+id/imageButton2"
+        android:background="?android:attr/colorPressedHighlight"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="17dp"
+        android:layout_marginEnd="28dp"
+        android:layout_above="@+id/textView2"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginEnd="0dp"
+        android:gravity="fill"
+        android:text="Phim nói về một chàng trai bị kẹt giữa hai vụ cướp đồng thời tại một ngân hàng. Trong tình huống bất đắc dĩ anh phải làm người hùng ra tay bảo vệ các nhân viên của ngân hàng với người mà anh thầm yêu, và những tình huống hài hước bắt đầu... "
+        android:textColor="?android:attr/colorPressedHighlight" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_alignEnd="@+id/textView3"
+        android:gravity="bottom|left|center_vertical"
+        android:text="FLYPAPER - \n Vụ cướp thế kỷ"
+        android:textColor="?android:attr/colorPressedHighlight"
+        android:textSize="18sp" />
+
+</RelativeLayout>
+   <!-- <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="336dp"
+        app:srcCompat="@drawable/image1"
+        android:id="@+id/imageView"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentStart="true"
+        android:id="@+id/editText2"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>-->
