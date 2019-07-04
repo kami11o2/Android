@@ -8,7 +8,7 @@
 
 #### 1.1. Hằng số
 * Hằng số là giá trị bất biết.
-* Có cú pháp tương tự với biến nhưng them `final` ở đầu.
+* Có cú pháp tương tự với biến nhưng thêm `final` ở đầu.
 * Hằng số được thể hiện ở dạng **chữ in hoa +underscore**.
 >VD: final int YOUR_BIRTHDAY = 1999
 
@@ -34,6 +34,6 @@
 
 ### 5. Kế thừa trong Java
 * Được biểu diễn qua từ khóa `extends`.
->VD:
+>VD:  
 >class Student extends Person {};  
 >Trong đó Student là class con, Person là class cha.
