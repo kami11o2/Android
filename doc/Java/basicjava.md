@@ -35,5 +35,5 @@
 ### 5. Kế thừa trong Java
 * Được biểu diễn qua từ khóa `extends`.
 >VD:
->class Student extends Person {}; 
+>class Student extends Person {};  
 >Trong đó Student là class con, Person là class cha.
