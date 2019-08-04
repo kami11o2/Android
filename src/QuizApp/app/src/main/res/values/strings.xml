@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_1">Ngôi chùa được đúc hoàn toàn bằng đồng tại Việt Nam?</string>
+    <string name="answer_1_1">Chùa Ba Vàng</string>
+    <string name="true_answer_1_2">Chùa Đồng</string>
+    <string name="answer_1_3">Chùa Hương</string>
+    <string name="answer_1_4">Chùa Bái Đính</string>
+
+    <string name="question_2">Bán buôn bán lẻ là phạm trù của ngành nào? </string>
+    <string name="answer_2_1">Thủ Công Nghiệp</string>
+    <string name="answer_2_2">Công Nghiệp</string>
+    <string name="answer_2_3">Nông Nghiệp</string>
+    <string name="true_answer_2_4">Thương Nghiệp</string>
+
+    <string name="question_3">Người ta thường gọi quốc gia nào là đất nước mặt trời mọc?</string>
+    <string name="answer_3_1">Hàn Quốc</string>
+    <string name="answer_3_2">Trung Quốc</string>
+    <string name="true_answer_3_3">Nhật Bản</string>
+    <string name="answer_3_4">Triều Tiên</string>
+
+    <string name="question_4">Đâu là tên 1 nguyên tố hóa học?</string>
+    <string name="answer_4_1">Lito</string>
+    <string name="true_answer_4_2">Liti</string>
+    <string name="answer_4_3">Lino</string>
+    <string name="answer_4_4">Libi</string>
+
+    <string name="question_5">Giao điểm 3 đường trung tuyến của tam giác gọi là?</string>
+    <string name="answer_5_1">Tâm Đường Tròn Ngoại Tiếp</string>
+    <string name="answer_5_2">Trực Tâm</string>
+    <string name="true_answer_5_3">Trọng Tâm</string>
+    <string name="answer_5_4">Tâm Đường Tròn Nội Tiếp</string>
+
+    <string name="question_6">Sau chiến tranh thế giới 2, phong trào giải phóng dân tộc nổi lên mạnh nhất ở đâu?</string>
+    <string name="answer_6_1">Châu Á</string>
+    <string name="answer_6_2">Châu Âu</string>
+    <string name="answer_6_3">Châu Mỹ</string>
+    <string name="true_answer_6_4">Châu Phi</string>
+
+    <string name="question_7">Công thức hóa học của đá vôi là gì?</string>
+    <string name="true_answer_7_1">CaCo3</string>
+    <string name="answer_7_2">CaHCo3</string>
+    <string name="answer_7_3">Ca(HCo3)2</string>
+    <string name="answer_7_4">CaCo2</string>
+
+    <string name="question_8">Vua nào đặt nhiều niên hiệu nhất lịch sử nước ta?</string>
+    <string name="true_answer_8_1">Lý Nhân Tông </string>
+    <string name="answer_8_2">Trần Minh Tông</string>
+    <string name="answer_8_3">Lý Nam Đế</string>
+    <string name="answer_8_4">Mai Hắc Đế</string>
+
+    <string name="question_9">Nhạc sĩ Sô Panh gắn liền với nhạc cụ nào?</string>
+    <string name="answer_9_1">Violin</string>
+    <string name="true_answer_9_2">Piano</string>
+    <string name="answer_9_3">Guitar</string>
+    <string name="answer_9_4">Saxophone</string>
+
+    <string name="question_10">Câu nói: "Đầu tôi chưa rơi xuống đất, xin bệ hạ đừng lo" là của ai?</string>
+    <string name="answer_10_1">Quang Trung</string>
+    <string name="answer_10_2">Triệu Quang Phục</string>
+    <string name="true_answer_10_3">Trần Thủ Độ</string>
+    <string name="answer_10_4">Lê Hoàn</string>
+
+    <string name="question_11">Giải Grand Slam đầu tiên tổ chức vào năm nào?</string>
+    <string name="true_answer_11_1">1905</string>
+    <string name="answer_11_2">1903</string>
+    <string name="answer_11_3">1906</string>
+    <string name="answer_11_4">1908</string>
+
+    <string name="question_12">Cùng với Hà Nội TvT (vô địch V-League 2010), CLB nào của Việt Nam tham dự AFC Cup 2011?</string>
+    <string name="answer_12_1">SHB Đà Nẵng</string>
+    <string name="answer_12_2">Hoàng Anh Gia Lai</string>
+    <string name="true_answer_12_3">Sông Lam Nghệ Am</string>
+    <string name="answer_12_4">Becamex Bình Dương</string>
+
+    <string name="question_13">AFC Asian Cup 2011 được tổ chức tại quốc gia nào?</string>
+    <string name="answer_13_1">Hàn Quốc</string>
+    <string name="answer_13_2">Nhật Bản</string>
+    <string name="true_answer_13_3">Qatar</string>
+    <string name="answer_13_4">Iraq</string>
+
+    <string name="question_14">Đội nào lên ngôi vô địch AFC Asian Cup 2011 tổ chức tại Qatar?</string>
+    <string name="answer_14_1">Hàn Quốc</string>
+    <string name="answer_14_2">Qatar</string>
+    <string name="answer_14_3">Iraq</string>
+    <string name="true_answer_14_4">Nhật Bản</string>
+
+    <string name="question_15">Sông Bến Hải và sông Thạch Hãn nằm ở tỉnh nào?</string>
+    <string name="true_answer_15_1">Quảng trị</string>
+    <string name="answer_15_2">Quảng Bình</string>
+    <string name="answer_15_3">Quảng Ngãi</string>
+    <string name="answer_15_4">Quảng Ninh</string>
+
+
+
+
+</resources>
